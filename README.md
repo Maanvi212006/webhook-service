@@ -6,7 +6,9 @@ A small Go service that receives GitHub webhooks, verifies they are genuine, and
 
 
 
-https://github.com/user-attachments/assets/2428013d-3863-497c-9a92-6d85e3c316c3
+
+https://github.com/user-attachments/assets/703dc190-5ac6-4037-8b83-41ea0e726909
+
 
 
 
