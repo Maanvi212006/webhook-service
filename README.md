@@ -4,6 +4,12 @@ A small Go service that receives GitHub webhooks, verifies they are genuine, and
 
 **Problem it solves:** webhooks can be faked, delivered twice, or fail when the chat service is down. This service rejects fake events, skips duplicates, and retries failed messages.
 
+
+
+https://github.com/user-attachments/assets/2428013d-3863-497c-9a92-6d85e3c316c3
+
+
+
 ## How it works
 
 ```mermaid
